@@ -22,6 +22,8 @@ The program runs on PORT :8080
 To use it first use /login to get a JWT token
 And the in subsequent requests use the generated token in Authorization header
 
+Sample admin token - eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQWRtaW4iLCJhZG1pbiI6dHJ1ZSwiZXhwIjoxNTI0MTQ4NjI4fQ.-j4Rl9xBa0Y4d296eOnfJbWHXvmW0SC1r8pv_OajZzM
+
 Also please install required library befor compiling the program-
 
 Use these commands to get all libraries-
